@@ -1,5 +1,5 @@
 function wordCount(str) {
-    return str.split(" ").length
+    return str.split(" ").length //splittar på mellanrum
 
 }
 
